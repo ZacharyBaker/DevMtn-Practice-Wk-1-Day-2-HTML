@@ -1,0 +1,30 @@
+header {
+  height: 130px;
+  width: 100%;
+  background-color: #353535;
+}
+
+body {
+  background-color: #ECECEC;
+}
+footer {
+  height: 100px;
+  background-color: #000000;
+  width: 100%;
+  margin: 0px auto;
+  margin-top: 890px;
+  
+}
+
+.left {
+  background-color: #B2B2B2;
+  width: 130px;
+  height: 990px;
+  float: left;
+}
+.right {
+  background-color: #B2B2B2;
+  width: 130px;
+  height: 990px;
+  float: right;
+}
