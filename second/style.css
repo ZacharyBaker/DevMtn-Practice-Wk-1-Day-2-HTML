@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+
+.left {
+  background-color: #0099FF;
+  width: 33%;
+  height: 940px;
+  float: left;
+}
+.center {
+  background-color: #66FFCC;
+  width: 34%;
+  height: 940px;
+  float: left;
+  
+}
+
+.right {
+  background-color: #CCFF66;
+  width: 33%;
+  height: 940px;
+  float: right;
+}
+
+footer {
+  background-color: red;
+  width: 33%;
+  height: 300px;
+  position: absolute;
+  right: 0em;
+  bottom: -7em;
+  
+}
+p {
+  font-size: 26px;
+  color: white;
+  position: relative;
+  top: 115px;
+  left: 100px;
+}
